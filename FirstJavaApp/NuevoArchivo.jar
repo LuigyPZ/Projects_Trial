@@ -1,0 +1,9 @@
+package OtroPacket;
+
+public class NuevoArchivo {
+
+  public NuevoArchivo(){
+  
+  }
+
+}
